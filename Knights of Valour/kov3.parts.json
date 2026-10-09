@@ -1,0 +1,17 @@
+{
+  "romset": "kov3.zip",
+  "parts": [
+    "kov3.part1.zip",
+    "kov3.part2.zip",
+    "kov3.part3.zip",
+    "kov3.part4.zip"
+  ],
+  "sizes": [
+    29843153,
+    29843153,
+    29843153,
+    29843152
+  ],
+  "total": 119372611,
+  "md5": "26fc45ffcf43c585fcdd63fa132c1a74"
+}
