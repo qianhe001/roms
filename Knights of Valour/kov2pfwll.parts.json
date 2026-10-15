@@ -1,0 +1,13 @@
+{
+  "romset": "kov2pfwll.zip",
+  "parts": [
+    "kov2pfwll.part1.zip",
+    "kov2pfwll.part2.zip"
+  ],
+  "sizes": [
+    16786369,
+    16786370
+  ],
+  "total": 33572739,
+  "md5": "7ab3318da9c2eb463286c7cf67350d55"
+}
