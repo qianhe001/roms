@@ -1,0 +1,13 @@
+{
+  "romset": "kovqxzbws.zip",
+  "parts": [
+    "kovqxzbws.part1.zip",
+    "kovqxzbws.part2.zip"
+  ],
+  "sizes": [
+    16091146,
+    16091147
+  ],
+  "total": 32182293,
+  "md5": "78a9fabfaf8e9772490b6ec043577edf"
+}
