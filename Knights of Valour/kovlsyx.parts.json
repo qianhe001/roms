@@ -1,0 +1,13 @@
+{
+  "romset": "kovlsyx.zip",
+  "parts": [
+    "kovlsyx.part1.zip",
+    "kovlsyx.part2.zip"
+  ],
+  "sizes": [
+    13106305,
+    13106306
+  ],
+  "total": 26212611,
+  "md5": "d7f1eb8fddc4b3b1b54ac6d311ad1f84"
+}
