@@ -1,0 +1,13 @@
+{
+  "romset": "kovphsqj.zip",
+  "parts": [
+    "kovphsqj.part1.zip",
+    "kovphsqj.part2.zip"
+  ],
+  "sizes": [
+    14783125,
+    14783125
+  ],
+  "total": 29566250,
+  "md5": "ecb7c28eab9139c01f1509afb4fd8c0f"
+}
