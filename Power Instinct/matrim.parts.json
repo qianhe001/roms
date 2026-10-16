@@ -1,0 +1,23 @@
+{
+  "romset": "matrim.zip",
+  "parts": [
+    "matrim.part1.zip",
+    "matrim.part2.zip",
+    "matrim.part3.zip",
+    "matrim.part4.zip",
+    "matrim.part5.zip",
+    "matrim.part6.zip",
+    "matrim.part7.zip"
+  ],
+  "sizes": [
+    20971520,
+    20971520,
+    20971520,
+    20971520,
+    20971520,
+    20971520,
+    8433211
+  ],
+  "total": 134262331,
+  "md5": "5a7b8bf0660efdd0448cebf5e1aeafb9"
+}
