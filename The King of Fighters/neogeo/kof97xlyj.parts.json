@@ -1,0 +1,13 @@
+{
+  "romset": "kof97.zip",
+  "parts": [
+    "kof97xlyj.part1.zip",
+    "kof97xlyj.part2.zip"
+  ],
+  "sizes": [
+    20971520,
+    7410664
+  ],
+  "total": 28382184,
+  "md5": "cae31c5705d96f4ccaab32b7c02ade72"
+}
