@@ -1,0 +1,13 @@
+{
+  "romset": "kog.zip",
+  "parts": [
+    "kog.part1.zip",
+    "kog.part2.zip"
+  ],
+  "sizes": [
+    20971520,
+    7915739
+  ],
+  "total": 28887259,
+  "md5": "7b0e658f45dc6b8a720ab43420052d4c"
+}
